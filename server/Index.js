@@ -1,5 +1,5 @@
 const express = require('express');
-const { scheduleJobs } = require("./cronJobs");
+
 const app = express();
 const cors = require('cors');
 // const bodyParser=require('body-parser')
